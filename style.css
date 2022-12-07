@@ -1,0 +1,32 @@
+.resimSlider {
+    height: 600px;
+}
+
+body {
+    font-family: 'Solway', serif;
+    ;
+    padding-top: 50px;
+}
+
+.hakkimizda {
+    background-color: #E0E0E0;
+}
+
+.brace {
+    border: none;
+    border-top: 3px solid #000000;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.ankCard>img:hover {
+    opacity: 0.7;
+}
+
+.gallery {
+    background-color: #E0E0E0;
+}
+
+.figure:hover {
+    opacity: 0.8;
+}
